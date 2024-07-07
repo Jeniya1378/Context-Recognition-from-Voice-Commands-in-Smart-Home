@@ -19,6 +19,10 @@ If you want to run the model developed for this project, please select "4" and t
 
 We welcome contributions from the community. If you are interested in contributing, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
+**License**
+
+Licensed under the MIT License. See the LICENSE file for details.
+
 **Citation**
 
 If you use this code or dataset in your research, please cite:
