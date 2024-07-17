@@ -27,6 +27,12 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 If you use this code or dataset in your research, please cite:
 
-J. Sultana and R. Iqbal, "A Framework for Context Recognition from Voice Commands and Conversations with Smart Assistants," 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2024, pp. 218-221, doi: 10.1109/CCNC51664.2024.10454771.
-
+@inproceedings{sultana2024framework,
+  title={A Framework for Context Recognition from Voice Commands and Conversations with Smart Assistants},
+  author={Sultana, Jeniya and Iqbal, Razib},
+  booktitle={2024 IEEE 21st Consumer Communications \& Networking Conference (CCNC)},
+  pages={218--221},
+  year={2024},
+  organization={IEEE}
+}
 
