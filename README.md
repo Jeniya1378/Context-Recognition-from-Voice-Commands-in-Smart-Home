@@ -29,3 +29,5 @@ If you use this code or dataset in your research, please cite:
 
 J. Sultana and R. Iqbal, "A Framework for Context Recognition from Voice Commands and Conversations with Smart Assistants," 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2024, pp. 218-221, doi: 10.1109/CCNC51664.2024.10454771.
 
+https://ieeexplore.ieee.org/abstract/document/10454771
+
